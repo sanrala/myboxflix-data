@@ -3816,7 +3816,7 @@
     "series": null,
     "season": null,
     "episode": null,
-    "child" : true,
+    "child" : false,
     "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/img/31/a0/31a0b2bc8c4816cd60d283390db223b2.jpg",
     "poster": "https://fr.web.img6.acsta.net/c_310_420/img/31/a0/31a0b2bc8c4816cd60d283390db223b2.jpg",
     "videoUrl": "https://myboxflix.fr/Elio.2025.MULTi.TRUEFRENCH.VF2.1080p.WEB.H264-SUPPLY.mp4",
