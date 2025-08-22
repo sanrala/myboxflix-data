@@ -20,6 +20,7 @@
     "poster": "https://fr.web.img3.acsta.net/r_1920_1080/img/7d/8c/7d8ca5b3ea53838f96c3776bff267878.jpeg",
     "release_date": "22 avril 2025",
     "une": false,
+    "une_scr" : "https://4kwallpapers.com/images/wallpapers/star-wars-andor-2880x1800-21688.jpg",
     "seasons": [
       {
         "season": 2,
@@ -176,6 +177,7 @@
     "poster": "https://fr.web.img6.acsta.net/r_1920_1080/img/c9/1b/c91be7f83192ef52a46a5eaa41a16fca.jpg",
     "release_date": "24 Juin 2025",
     "une": false,
+    "une_scr" : "https://images.hdqwalls.com/wallpapers/marvel-iron-heart-4k-st.jpg",
     "seasons": [
       {
         "season": 1,
@@ -267,6 +269,7 @@
     "poster": "https://fr.web.img5.acsta.net/r_1920_1080/pictures/18/10/17/17/45/1531673.jpg",
     "release_date": "10 Avril 2015",
     "une": false,
+    "une_scr":"https://c4.wallpaperflare.com/wallpaper/17/318/400/tv-show-daredevil-charlie-cox-matt-murdock-wallpaper-preview.jpg",
     "seasons": [
       {
         "season": 1,
@@ -736,6 +739,7 @@
     "release_date": "13 Août 2025",
     "une_scr": "https://grapescreen.com/wp-content/uploads/2025/08/A-New-Poster-for-Alien-Earth-Arrives-from-Weyland-Yutani-1024x576.jpg",
     "une": false,
+
     "seasons": [
       {
         "season": 1,
@@ -788,6 +792,7 @@
     "poster": "https://fr.web.img5.acsta.net/r_1920_1080/pictures/21/02/16/12/45/5319199.jpg",
     "release_date": "03 Avril 2016",
     "une": false,
+    "une_scr" : "https://4kwallpapers.com/images/wallpapers/my-hero-academia-1920x1200-10481.jpg",
     "seasons": [
       {
         "season": 1,
@@ -2444,6 +2449,7 @@
     "poster": "https://fr.web.img6.acsta.net/r_1920_1080/pictures/18/09/24/11/16/5831346.jpg",
     "release_date": "03 Avril 1989 ",
     "une": false,
+    "une_scr" : "https://wallpapercat.com/w/full/7/e/f/143566-3840x2160-desktop-4k-dragon-ball-z-wallpaper.jpg",
     "seasons": [
       {
         "season": 1,
@@ -2711,6 +2717,7 @@
     "poster": "https://fr.web.img5.acsta.net/r_1920_1080/pictures/19/08/09/14/53/1842996.jpg",
     "release_date": "03 Avril 1989 ",
     "une": false,
+    "une_scr" : "https://4kwallpapers.com/images/wallpapers/one-piece-character-3840x2160-15328.jpeg",
     "seasons": [
       {
         "season": 1,
@@ -3139,7 +3146,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=fet2dxgJGNk",
     "created_at": "2025-07-09",
     "release_date": "13 Août 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.sonypictures.fr/sites/france2/files/tittle-page/thumbnails/2427_SP_KK_WEBSITE_IMGS_HEROBANNER_2572x1100%20%281%29.jpg"
   },
   {
     "id": 5,
@@ -3167,7 +3175,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=frh476xJmUw",
     "created_at": "2025-06-19",
     "release_date": "09 Avril 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://mikesfilmtalk.com/wp-content/uploads/2025/07/l.jpg"
   },
   {
     "id": 6,
@@ -3197,7 +3206,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=K3aUaFbrd8g&t=4s",
     "created_at": "2025-06-20",
     "release_date": "05 Février 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://fr.web.img2.acsta.net/c_400_225/img/8d/1e/8d1e6b5ccf9629db45cf81afe3bcb390.jpg"
   },
   {
     "id": 7,
@@ -3225,7 +3235,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=sVUJRGk8I20",
     "created_at": "2025-06-20",
     "release_date": "22 janvier 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.programme-tv.net/imgre/fit/~2~program~5b795c693cdb8b59.jpeg/630x355/quality/80/crop-from/top/vol-a-haut-risque.jpeg"
   },
   {
     "id": 8,
@@ -3250,7 +3261,7 @@
     "created_at": "2025-08-09",
     "release_date": "04 Juillet 2025",
     "une": false,
-    "une_scr": "https://sm.ign.com/t/ign_fr/gallery/j/jurassic-w/jurassic-world-rebirth-trailer-1-stills_6krd.1400.jpg"
+    "une_scr": "https://sm.ign.com/ign_fr/gallery/j/jurassic-w/jurassic-world-rebirth-trailer-1-stills_6krd.jpg"
   },
   {
     "id": 104,
@@ -3274,6 +3285,7 @@
     "poster": "https://fr.web.img6.acsta.net/r_1920_1080/img/68/fe/68fe02cb1b8a0923dc80e81faeefe08a.jpeg",
     "release_date": "04 Mars 2025",
     "une": false,
+    "une_scr" : "https://images5.alphacoders.com/138/1389241.jpg",
     "seasons": [
       {
         "season": 1,
@@ -3292,46 +3304,7 @@
       }
     ]
   },
-  {
-    "id": 104,
-    "type": "serie",
-    "series": "Daredevil : Born Again",
-    "title": "Daredevil : Born Again",
-    "category": "Super-héros",
-    "seriesDescription": "Matt Murdock reprend son costume alors que Wilson Fisk lance sa campagne pour devenir maire de New York.",
-    "origine": "États-Unis",
-    "realisateur": "Divers réalisateurs",
-    "child" : true,
-    "duration": "49min",
-    "acteurs": [
-      "Charlie Cox",
-      "Vincent D’Onofrio",
-      "Deborah Ann Woll",
-      "Elden Henson",
-      "Wilson Bethel"
-    ],
-    "bandeAnnonce": "https://www.youtube.com/watch?v=DF4h9waAccc&t=6s",
-    "poster": "https://fr.web.img6.acsta.net/r_1920_1080/img/68/fe/68fe02cb1b8a0923dc80e81faeefe08a.jpeg",
-    "release_date": "04 Mars 2025",
-    "une": false,
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "id": 10401,
-            "title": "Daredevil : Born Again – S01E01",
-            "episode": 1,
-            "thumbnail": "https://fr.web.img5.acsta.net/r_1920_1080/img/5b/8c/5b8c98ba7049227ef91f94248570fe93.jpg",
-            "videoUrl": "https://myboxflix.fr/Daredevil.Born.Again.S01E01.FRENCH.WEBRip.x264-Wawacity.social.mp4",
-            "description": "Matt Murdock reprend son costume alors que Wilson Fisk lance sa campagne de maire de New York.",
-            "duration": "49min",
-            "created_at": "2025-06-24"
-          }
-        ]
-      }
-    ]
-  },
+  
   {
     "id": 10,
     "title": "Thunderbolts",
@@ -3361,7 +3334,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=950vjjYfuxk&t=3s",
     "created_at": "2025-07-03",
     "release_date": "30 Avril 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://images5.alphacoders.com/137/1378076.jpg"
   },
   {
     "id": 11,
@@ -3419,7 +3393,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=placeholder",
     "created_at": "2025-06-01",
     "release_date": "15 septembre 2021",
-    "une": false
+    "une": false,
+    "une_scr" : "https://wallpapercat.com/w/full/1/5/5/116565-3840x2160-desktop-4k-dune-2021-wallpaper-photo.jpg"
   },
   {
     "id": 25,
@@ -3453,7 +3428,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
     "created_at": "2025-03-01",
     "release_date": "28 février 2024",
-    "une": false
+    "une": false,
+    "une_scr" : "https://images5.alphacoders.com/135/1358127.jpeg"
   },
   {
     "id": 26,
@@ -3505,7 +3481,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=vEioDeOiqEs",
     "created_at": "2025-07-03",
     "release_date": "2 avril 2025 ",
-    "une": false
+    "une": false,
+    "une_scr" : "https://images4.alphacoders.com/139/1396597.jpg"
   },
   {
     "id": 28,
@@ -3533,7 +3510,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=PPSe39Wslu8",
     "created_at": "2025-07-06",
     "release_date": "2025‑11‑14",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.ecranlarge.com/content/uploads/2025/02/bridget-jones-4-folle-de-lui--critique-qui-retombe-amoureuse--1260x708.jpg"
   },
   {
     "id": 29,
@@ -3558,7 +3536,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=OdtWHgWBjgo",
     "created_at": "2025-08-09",
     "release_date": "2 avril 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://proxymedia.woopic.com/api/v1/images/331%2FLEROUTARDXXW0225662_BAN1_2424_NEWTV_UHD.jpg"
   },
   {
     "id": 30,
@@ -3585,7 +3564,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=92nh9E3B0do",
     "created_at": "2025-07-06",
     "release_date": "2025-06-25",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.hollywoodreporter.com/wp-content/uploads/2025/07/When-and-Where-to-Stream-New-Dora-the-Explorer-Movie-for-Free-Dora-and-the-Search-for-Sol-Dorado-MAIN.jpg"
   },
   {
     "id": 31,
@@ -3635,7 +3615,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=HrVJe2P9Uuk",
     "created_at": "2025-07-06",
     "release_date": "2025-11-27",
-    "une": false
+    "une": false,
+    "une_scr": "https://image.tmdb.org/t/p/original/rVlwDjh8Fw8m6HVJR7KRWmRdPZl.jpg"
   },
   {
     "id": 33,
@@ -3662,7 +3643,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=Fp-1L1KOIk8",
     "created_at": "2025-07-06",
     "release_date": "2025-12-04",
-    "une": false
+    "une": false,
+    "une_scr" : "https://4kwallpapers.com/images/wallpapers/paddington-in-peru-3840x2160-19205.jpg"
   },
   {
     "id": 34,
@@ -3688,7 +3670,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=YCdykV32pGQ",
     "created_at": "2025-07-06",
     "release_date": "2025‑03‑19",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.disneyphile.fr/wp-content/uploads/2025/03/affiches-blanche-neige-scaled.jpg"
   },
   {
     "id": 35,
@@ -3714,7 +3697,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=5HgS6G0xhLY",
     "created_at": "2025-07-07",
     "release_date": "10 juillet 2024",
-    "une": false
+    "une": false,
+    "une_scr" : "https://image.tmdb.org/t/p/original/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg"
   },
   {
     "id": 37,
@@ -3799,7 +3783,7 @@
     "created_at": "2025-02-18",
     "release_date": "20 décembre 2024",
     "une": false,
-    "une_scr": ""
+    "une_scr": "https://images4.alphacoders.com/138/1385084.jpg"
   },
   {
     "id": 42,
@@ -3856,7 +3840,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=n91jlq5FI2U",
     "created_at": "2025-05-13",
     "release_date": "23 mai 2025",
-    "une": false
+    "une": false,
+    "une_scr" : "https://www.apple.com/tv-pr/shows-and-films/f/fountain-of-youth/images/unit-photos/photo-0103/Fountain_of_Youth_Photo_0103.jpg.photo_modal_show_home_large.jpg"
   },
   {
     "id": 44,
@@ -3885,7 +3870,8 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=ndCzT6dyOqk",
     "created_at": "2025-01-13",
     "release_date": " 1 juillet 2011",
-    "une": false
+    "une": false,
+    "une_scr" : "https://m.media-amazon.com/images/S/pv-target-images/5d5dcc7c049d61a7e9f06129036a8a050e772991a35ae977c63153d8b54e1c10.jpg"
   },
   {
     "id": 45,
