@@ -4001,6 +4001,31 @@
     "release_date": "30 Juillet 2025",
     "une": false,
     "une_scr": "https://4kwallpapers.com/images/wallpapers/the-bad-guys-2-2025-3840x2160-20519.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Sonic 3",
+    "category": "Animation, Aventure, Famille",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/img/85/e7/85e77c51c172da4aec13679210295a11.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/img/85/e7/85e77c51c172da4aec13679210295a11.jpg",
+    "videoUrl": "https://myboxflix.fr/Sonic.the.Hedgehog.3.2024.MULTi.TRUEFRENCH.2160p.HDR.DV.WEB-DL.H265-Slay3R-Wawacity.supply.mp4",
+    "description": "Sonic, Knuckles et Tails se retrouvent face à un nouvel adversaire, Shadow, mystérieux et puissant ennemi aux pouvoirs inédits. Dépassée sur tous les plans, la Team Sonic va devoir former une alliance improbable pour tenter d’arrêter Shadow et protéger notre planète.",
+    "duration": "1H49",
+    "origine": "Etats-Unis",
+    "realisateur": "  Jeff Fowler",
+    "acteurs": [
+    " Ben Schwartz, Idris Elba, Keanu Reeves"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=KtF7DvnsEig",
+    "created_at": "2025-07-21",
+    "release_date": "25 décembre 2024",
+    "une": false,
+    "une_scr": "https://4kwallpapers.com/images/wallpapers/sonic-the-hedgehog-3840x1080-20087.jpg"
   }
 
 ]
