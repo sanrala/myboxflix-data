@@ -765,6 +765,17 @@
             "duration": "53min",
             "child": true,
             "created_at": "2025-08-13"
+          },
+          {
+            "id": 1002,
+            "title": "Métamorphose",
+            "episode": 3,
+            "thumbnail": "https://fr.web.img5.acsta.net/r_1920_1080/img/e7/c4/e7c4604019757c325048c3f641edcb9d.jpg",
+            "videoUrl": "https://myboxflix.fr/Alien/1/Alien.Earth.S01E03.TRUEFRENCH.WEBRip.x264.mp4",
+            "description": "L'équipe revient avec une surprenante cargaison et une inquiétante expérience s'ensuit.",
+            "duration": "53min",
+            "child": true,
+            "created_at": "2025-08-23"
           }
         ]
       }
