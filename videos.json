@@ -4116,7 +4116,7 @@
   {
     "id": 54,
     "title": "Star Wars VII - Le réveil de la force",
-    "category": " Science Fiction, Aventure",
+    "category": " Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4141,7 +4141,7 @@
   {
     "id": 55,
     "title": "Star Wars : Episode VI - Le Retour du Jedi",
-    "category": " Science Fiction, Aventure",
+    "category": " Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4166,7 +4166,7 @@
   {
     "id": 56,
     "title": "Star Wars : Episode V - L'Empire contre-attaque",
-    "category": " Science Fiction, Aventure",
+    "category": " Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4191,7 +4191,7 @@
   {
     "id": 57,
     "title": "Star Wars : Episode IV - Un nouvel espoir",
-    "category": " Science Fiction, Aventure",
+    "category": " Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4216,7 +4216,7 @@
   {
     "id": 58,
     "title": "Rogue One: A Star Wars Story",
-    "category": " Science Fiction, Aventure",
+    "category": " Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4241,7 +4241,7 @@
   {
     "id": 59,
     "title": "Star Wars - The Clone Wars",
-    "category": "Animation, Famille, Science Fiction, Aventure",
+    "category": "Animation, Famille, Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
@@ -4258,7 +4258,7 @@
     " Anthony Daniels, Christopher Lee, Samuel L. Jackson"
     ],
     "bandeAnnonce": "https://www.youtube.com/watch?v=OMHXnDlG-kY",
-    "created_at": "2025-05-23",
+    "created_at": "2025-08-20",
     "release_date": "27 août 2008",
     "une": false,
     "une_scr": "https://w0.peakpx.com/wallpaper/184/1024/HD-wallpaper-star-wars-anakin-skywalker-lightsaber-tv-show-obi-wan-kenobi-darth-maul-star-wars-the-clone-wars-ahsoka-tano.jpg"
@@ -4266,7 +4266,7 @@
   {
     "id": 60,
     "title": "Solo - A Star Wars Story",
-    "category": "Science Fiction, Aventure",
+    "category": "Science-Fiction, Aventure",
     "type": "film",
     "series": null,
     "season": null,
