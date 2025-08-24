@@ -154,7 +154,7 @@
     "type": "serie",
     "series": "Ironheart",
     "title": "Ironheart",
-    "category": "Action, Science-fiction, Super-héros",
+    "category": "Action, Science-fiction, Super-héros, Marvel",
     "seriesDescription": "Riri Williams, génie en devenir inspirée par Tony Stark, retourne à Chicago après les événements de Wakanda Forever. Elle construit une nouvelle armure face à la magie du Hood et conclut un pacte avec Mephisto.",
     "origine": "États-Unis",
     "child" : false,
@@ -251,7 +251,7 @@
     "type": "serie",
     "series": "Daredevil",
     "title": "Daredevil",
-    "category": "Action, Crime, Super-héros",
+    "category": "Action, Crime, Super-héros, Marvel",
     "seriesDescription": "Matt Murdock, avocat aveugle le jour et justicier la nuit, affronte la pègre de Hell's Kitchen.",
     "origine": "États-Unis",
     "child" : true,
@@ -3319,7 +3319,7 @@
   {
     "id": 10,
     "title": "Thunderbolts",
-    "category": "Action, Fantastique",
+    "category": "Action, Fantastique,Super-héros, Marvel",
     "type": "film",
     "series": null,
     "season": null,
@@ -3714,7 +3714,7 @@
   {
     "id": 37,
     "title": "Captain America: Brave New World",
-    "category": "Action, Super-héros",
+    "category": "Action, Super-héros, Marvel",
     "type": "film",
     "series": "",
     "season": "",
@@ -4041,7 +4041,7 @@
   {
     "id": 51,
     "title": "LEGO Star Wars - C'est l'été !",
-    "category": "Animation, Famille",
+    "category": "Animation, Famille, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4066,7 +4066,7 @@
   {
     "id": 52,
     "title": "Star Wars IX - L'Ascension de Skywalker",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4091,7 +4091,7 @@
   {
     "id": 53,
     "title": "Star Wars VIII - Les derniers Jedi",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4116,7 +4116,7 @@
   {
     "id": 54,
     "title": "Star Wars VII - Le réveil de la force",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4141,7 +4141,7 @@
   {
     "id": 55,
     "title": "Star Wars : Episode VI - Le Retour du Jedi",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4166,7 +4166,7 @@
   {
     "id": 56,
     "title": "Star Wars : Episode V - L'Empire contre-attaque",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4191,7 +4191,7 @@
   {
     "id": 57,
     "title": "Star Wars : Episode IV - Un nouvel espoir",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4216,7 +4216,7 @@
   {
     "id": 58,
     "title": "Rogue One: A Star Wars Story",
-    "category": " Science-Fiction, Aventure",
+    "category": " Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4241,7 +4241,7 @@
   {
     "id": 59,
     "title": "Star Wars - The Clone Wars",
-    "category": "Animation, Famille, Science-Fiction, Aventure",
+    "category": "Animation, Famille, Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4266,7 +4266,7 @@
   {
     "id": 60,
     "title": "Solo - A Star Wars Story",
-    "category": "Science-Fiction, Aventure",
+    "category": "Science-Fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4287,6 +4287,31 @@
     "release_date": "23 mai 2018",
     "une": false,
     "une_scr": "https://www.hdwallpapers.in/download/solo_a_star_wars_story_2018_4k-wide.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Thor : Ragnarok",
+    "category": "Science-Fiction, Aventure, Action, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/08/24/17/34/098917.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/08/24/17/34/098917.jpg",
+    "videoUrl": "https://myboxflix.fr/Thor - Ragnarok.mp4",
+    "description": "Privé de son puissant marteau, Thor est retenu prisonnier sur une lointaine planète aux confins de l’univers. Pour sauver Asgard, il va devoir lutter contre le temps afin d’empêcher l’impitoyable Hela d’accomplir le Ragnarök – la destruction de son monde et la fin de la civilisation asgardienne. Mais pour y parvenir, il va d’abord devoir mener un combat titanesque de gladiateurs contre celui qui était autrefois son allié au sein des Avengers : l’incroyable Hulk…",
+    "duration": "2h11",
+    "origine": "Etats-Unis",
+    "realisateur": "Taika Waititi",
+    "acteurs": [
+    "Chris Hemsworth, Tom Hiddleston, Cate Blanchett"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=RtG6scyBIeM",
+    "created_at": "2025-05-23",
+    "release_date": "25 octobre 2017",
+    "une": false,
+    "une_scr": "https://a-static.besthdwallpaper.com/thor-ragnarok-wallpaper-2560x2048-11751_33.jpg"
   }
 
 ]
