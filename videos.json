@@ -4237,6 +4237,31 @@
     "release_date": "14 décembre 2016 ",
     "une": false,
     "une_scr": "https://wallpapers.com/images/hd/star-wars-rogue-one-r0p76881z4x9kp89.jpg"
+  } ,
+  {
+    "id": 59,
+    "title": "Star Wars - The Clone Wars",
+    "category": " Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/66/52/07/18959841.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/66/52/07/18959841.jpg",
+    "videoUrl": "https://myboxflix.fr/StarWars/Star Wars - The Clone Wars.mp4",
+    "description": "La galaxie est en proie à la Guerre des Clones, un conflit à grande échelle qui oppose les maléfiques Séparatistes et leurs immenses armées d'androïdes à la République. Les Chevaliers Jedi, protecteurs de la République, luttent pour maintenir l'ordre et restaurer la paix tandis que de nouvelles planètes succombent chaque jour aux puissances du mal. Pour prendre l'avantage, le Chevalier Jedi Anakin Skywalker et sa jeune Padawan, Ahsoka Tano, sont chargés d'une mission capitale qui va les confronter au redoutable "parrain" de Tatooine, Jabba le Hutt. D'autres épreuves et de nouveaux dangers attendent nos héros sur Tatooine, car le Comte Dooku ne tarde pas à se lancer à leur poursuite avec ses sinistres agents - dont la cruelle Asajj Ventress, prête à tout pour faire échouer Anakin et Ahsoka. Pendant ce temps, sur le front, Obi-Wan Kenobi et Maître Yoda s'efforcent vaillamment de préparer l'armée des clones à résister aux forces des Ténèbres..",
+    "duration": "1h37",
+    "origine": "Etats-Unis",
+    "realisateur": " Dave Filoni",
+    "acteurs": [
+    " Anthony Daniels, Christopher Lee, Samuel L. Jackson"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=OMHXnDlG-kY",
+    "created_at": "2025-08-23",
+    "release_date": "27 août 2008",
+    "une": false,
+    "une_scr": "https://w0.peakpx.com/wallpaper/184/1024/HD-wallpaper-star-wars-anakin-skywalker-lightsaber-tv-show-obi-wan-kenobi-darth-maul-star-wars-the-clone-wars-ahsoka-tano.jpg"
   }
 
 ]
