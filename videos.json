@@ -4337,6 +4337,56 @@
     "release_date": "25 juin 2025",
     "une": true,
     "une_scr": "https://4kwallpapers.com/images/wallpapers/f1-the-movie-8k-3840x2160-22458.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Les Schtroumpfs - Le film",
+    "category": " Animation, Musical, Famille, Comédie, Comédie musicale",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/img/41/48/4148d1c00240c43a883cd461d39de43b.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/img/41/48/4148d1c00240c43a883cd461d39de43b.jpg",
+    "videoUrl": "https://myboxflix.fr/Les Schtroumpfs.mp4",
+    "description": "Lorsque le Grand Schtroumpf est mystérieusement kidnappé par les vilains sorciers : Razamel et Gargamel, la Schtroumpfette et son meilleur ami Le Schtroumpf Sans-Nom partent en mission pour le retrouver ! Commence alors une aventure délirante où nos héros bleus vont croiser la route de nouveaux amis hauts en couleur comme Mama Poot et ses petits. Les Schtroumpfs doivent prendre en main leur destin pour sauver celui du monde entier !",
+    "duration": "1h32",
+    "origine": "Etats-Unis",
+    "realisateur": "Chris Miller",
+    "acteurs": [
+    "Sofia Essaïdi, Rihanna, Jérôme Commandeur"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=r8sqscgw490",
+    "created_at": "2025-08-22",
+    "release_date": "16 juillet 2025",
+    "une": true,
+    "une_scr": "https://fr.web.img6.acsta.net/r_1280_720/img/06/86/06862284d584f391f69065d844325c9b.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Zack Snyder's Justice League",
+    "category": "Science-Fiction, Aventure, Action, Super-héros, DC",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/04/07/10/59/5550346.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/21/04/07/10/59/5550346.jpg",
+    "videoUrl": "https://myboxflix.fr/Zack Snyder's Justice League.mp4",
+    "description": "Bruce Wayne est déterminé à faire en sorte que le sacrifice ultime de Superman ne soit pas vain; pour cela, avec l'aide de Diana Prince, il met en place un plan pour recruter une équipe de métahumains afin de protéger le monde d'une menace apocalyptique imminente. La tâche s'avère plus difficile que Bruce ne l'imaginait, car chacune des recrues doit faire face aux démons de son passé et les surpasser pour se rassembler et former une ligue de héros sans précédent. Désormais unis, Batman, Wonder Woman, Aquaman, Cyborg et Flash réussiront-ils à sauver la planète de Steppenwolf, DeSaad, Darkseid et de leurs terribles intentions ?",
+    "duration": "4h02",
+    "origine": "Etats-Unis",
+    "realisateur": " Zack Snyder",
+    "acteurs": [
+    "Ben Affleck, Henry Cavill, Gal Gadot"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=lTnRSMfFvu4",
+    "created_at": "2025-05-23",
+    "release_date": "17 mars 2021",
+    "une": false,
+    "une_scr": "https://w0.peakpx.com/wallpaper/591/28/HD-wallpaper-zack-snyders-justice-league-league-snyders-justice-zack.jpg"
   }
 
 ]
