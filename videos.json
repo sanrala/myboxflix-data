@@ -4087,6 +4087,56 @@
     "release_date": "18 décembre 2019",
     "une": false,
     "une_scr": "https://wallpapers.com/images/hd/ren-and-rey-rise-of-skywalker-ypk6tymigmb8lzu7.jpg"
+  }  ,
+  {
+    "id": 53,
+    "title": "Star Wars VIII - Les derniers Jedi",
+    "category": " Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img4.acsta.net/c_310_420/pictures/17/10/10/04/58/2061488.jpg",
+    "poster": "https://fr.web.img4.acsta.net/c_310_420/pictures/17/10/10/04/58/2061488.jpg",
+    "videoUrl": "https://myboxflix.fr/StarWars/Star Wars - Épisode VIII - Les Derniers Jedi.mp4",
+    "description": "Les héros du Réveil de la force rejoignent les figures légendaires de la galaxie dans une aventure épique qui révèle des secrets ancestraux sur la Force et entraîne de surprenantes révélations sur le passé…",
+    "duration": "2h32",
+    "origine": "Etats-Unis",
+    "realisateur": "  J.J. Abrams",
+    "acteurs": [
+    " Daisy Ridley, Adam Driver, Oscar Isaac"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=wY708Ky2SG8",
+    "created_at": "2025-08-23",
+    "release_date": "13 décembre 2017",
+    "une": false,
+    "une_scr": "https://w0.peakpx.com/wallpaper/990/875/HD-wallpaper-star-wars-the-last-jedi-2017-episode-viii-daisy-ridley-john-boyega-mark-hamill-adam-driver-mark-richard-hamill.jpg"
+  } ,
+  {
+    "id": 54,
+    "title": "Star Wars VII - Le réveil de la force",
+    "category": " Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/10/18/18/56/052074.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/10/18/18/56/052074.jpg",
+    "videoUrl": "https://myboxflix.fr/StarWars/Star Wars - Épisode VII - Le Réveil de la Force.mp4",
+    "description": "Dans une galaxie lointaine, très lointaine, un nouvel épisode de la saga Star Wars, 30 ans après les événements du Retour du Jedi.",
+    "duration": "2h15",
+    "origine": "Etats-Unis",
+    "realisateur": "  J.J. Abrams",
+    "acteurs": [
+    " Daisy Ridley, Adam Driver, Oscar Isaac"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=mH9Ygfs5avo",
+    "created_at": "2025-08-23",
+    "release_date": "16 décembre 2015",
+    "une": false,
+    "une_scr": "https://wallpapercrafter.com/desktop/39630-Star-Wars-Episode-VII-The-Force-Awakens-clone-trooper.jpg"
   }
 
 ]
