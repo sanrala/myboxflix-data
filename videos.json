@@ -4049,7 +4049,7 @@
     "child" : false,
     "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/22/07/26/10/24/4093901.jpg",
     "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/22/07/26/10/24/4093901.jpg",
-    "videoUrl": "https://myboxflix.fr/LEGO Star Wars - C'est l'été !.mp4",
+    "videoUrl": "https://myboxflix.fr/StarWars/LEGO Star Wars - C'est l'été !.mp4",
     "description": "L’action de cet épisode estival se déroule peu de temps après les événements relatés dans STAR WARS : L’ASCENSION DE SKYWALKER. En quête d’une pause bien méritée après avoir affronté soldats impériaux et autres chasseurs TIE, Finn organise des vacances surprise pour ses amis. Rey, Poe, Rose, Chewbacca, BB-8, R2-D2 et C-3PO se retrouvent ainsi à bord de l’Halcyon, un hôtel intergalactique ultra-luxueux. Mais son projet de retrouvailles tourne court lorsqu’un malencontreux événement le contraint à se retrouver séparé du groupe. En cherchant ses camarades, il tombe sur trois fantômes bien connus - Obi-Wan Kenobi, Anakin Skywalker et Leia Organa - qui lui racontent à tour de rôle des anecdotes sur leurs vacances qui ont mal tournées. Au fil des récits, Finn comprend que ces pauses estivales ne servent pas seulement qu’à s’amuser...",
     "duration": "0h45",
     "origine": "Etats-Unis",
@@ -4062,6 +4062,31 @@
     "release_date": "5 août 2022",
     "une": false,
     "une_scr": "https://www.chroniquedisney.fr/img/une5/2022-LEGO-SW-summer.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Star Wars IX - L'Ascension de Skywalker",
+    "category": " Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/r_1920_1080/pictures/20/10/02/12/21/3764004.png",
+    "poster": "https://fr.web.img6.acsta.net/r_1920_1080/pictures/20/10/02/12/21/3764004.png",
+    "videoUrl": "https://myboxflix.fr/StarWars/Star Wars - Épisode IX - L'Ascension de Skywalker.mp4",
+    "description": "La conclusion de la saga Skywalker. De nouvelles légendes vont naître dans cette bataille épique pour la liberté.",
+    "duration": "2h22",
+    "origine": "Etats-Unis",
+    "realisateur": "  J.J. Abrams",
+    "acteurs": [
+    " Daisy Ridley, Adam Driver, Oscar Isaac"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=pHgwf2eMFnA",
+    "created_at": "2025-08-23",
+    "release_date": "18 décembre 2019",
+    "une": false,
+    "une_scr": "https://wallpapers.com/images/hd/ren-and-rey-rise-of-skywalker-ypk6tymigmb8lzu7.jpg"
   }
 
 ]
