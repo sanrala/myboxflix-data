@@ -4212,6 +4212,31 @@
     "release_date": "19 octobre 1977",
     "une": false,
     "une_scr": "https://w0.peakpx.com/wallpaper/666/201/HD-wallpaper-star-wars-star-wars-episode-iv-a-new-hope.jpg"
+  } ,
+  {
+    "id": 58,
+    "title": "Rogue One: A Star Wars Story",
+    "category": " Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img4.acsta.net/c_310_420/pictures/16/10/19/14/33/069648.jpg",
+    "poster": "https://fr.web.img4.acsta.net/c_310_420/pictures/16/10/19/14/33/069648.jpg",
+    "videoUrl": "https://myboxflix.fr/StarWars/Rogue One - A Star Wars Story.mp4",
+    "description": "Situé entre les épisodes III et IV de la saga Star Wars, le film nous entraîne aux côtés d’individus ordinaires qui, pour rester fidèles à leurs valeurs, vont tenter l’impossible au péril de leur vie. Ils n’avaient pas prévu de devenir des héros, mais dans une époque de plus en plus sombre, ils vont devoir dérober les plans de l’Étoile de la Mort, l’arme de destruction ultime de l’Empire.",
+    "duration": "2h14",
+    "origine": "Etats-Unis",
+    "realisateur": " Gareth Edwards",
+    "acteurs": [
+    "  Felicity Jones, Diego Luna, Ben Mendelsohn"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=BtxEfZdBs-E",
+    "created_at": "2025-08-23",
+    "release_date": "14 décembre 2016 ",
+    "une": false,
+    "une_scr": "https://wallpapers.com/images/hd/star-wars-rogue-one-r0p76881z4x9kp89.jpg"
   }
 
 ]
