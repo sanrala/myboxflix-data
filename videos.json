@@ -3934,7 +3934,7 @@
     "bandeAnnonce": "https://www.youtube.com/watch?v=5jdR-ieDoMA",
     "created_at": "2025-08-15",
     "release_date": "15 Août 2025",
-    "une": true,
+    "une": false,
     "une_scr": "https://preview.redd.it/superman-2025-4k-wallpaper-3840x2160-v0-pjvxuo46atbf1.jpeg?auto=webp&s=ae45217ae04f4e316e1cabbb8a7ef115f447ba28"
   },
   {
@@ -4312,6 +4312,31 @@
     "release_date": "25 octobre 2017",
     "une": false,
     "une_scr": "https://a-static.besthdwallpaper.com/thor-ragnarok-wallpaper-2560x2048-11751_33.jpg"
+  },
+  {
+    "id": 62,
+    "title": "F1® LE FILM",
+    "category": "Action, Course",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/img/23/af/23afa3f5a87a13139d051786a37ee661.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/img/23/af/23afa3f5a87a13139d051786a37ee661.jpg",
+    "videoUrl": "https://myboxflix.fr/F1 Le Film.mp4",
+    "description": "Sonny Hayes était le prodige de la F1 des années 90 jusqu’à son terrible accident. Trente ans plus tard, devenu un pilote indépendant, il est contacté par Ruben Cervantes, patron d’une écurie en faillite qui le convainc de revenir pour sauver l’équipe et prouver qu’il est toujours le meilleur. Aux côtés de Joshua Pearce, diamant brut prêt à devenir le numéro 1, Sonny réalise vite qu'en F1, son coéquipier est aussi son plus grand rival, que le danger est partout et qu'il risque de tout perdre.",
+    "duration": "2h35",
+    "origine": "Etats-Unis",
+    "realisateur": "Joseph Kosinski",
+    "acteurs": [
+    "Brad Pitt, Damson Idris, Javier Bardem"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=dKB7lDz6Xbk",
+    "created_at": "2025-08-24",
+    "release_date": "25 juin 2025",
+    "une": true,
+    "une_scr": "https://4kwallpapers.com/images/wallpapers/f1-the-movie-8k-3840x2160-22458.jpg"
   }
 
 ]
