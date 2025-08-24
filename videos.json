@@ -4262,6 +4262,31 @@
     "release_date": "27 août 2008",
     "une": false,
     "une_scr": "https://w0.peakpx.com/wallpaper/184/1024/HD-wallpaper-star-wars-anakin-skywalker-lightsaber-tv-show-obi-wan-kenobi-darth-maul-star-wars-the-clone-wars-ahsoka-tano.jpg"
+  } ,
+  {
+    "id": 60,
+    "title": "Solo - A Star Wars Story",
+    "category": "Science Fiction, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img3.acsta.net/c_310_420/pictures/18/04/09/10/56/4971105.jpg",
+    "poster": "https://fr.web.img3.acsta.net/c_310_420/pictures/18/04/09/10/56/4971105.jpg",
+    "videoUrl": "https://myboxflix.fr/StarWars/Solo - A Star Wars Story.mp4",
+    "description": "Embarquez à bord du Faucon Millenium et partez à l’aventure en compagnie du plus célèbre vaurien de la galaxie. Au cours de périlleuses aventures dans les bas-fonds d’un monde criminel, Han Solo va faire la connaissance de son imposant futur copilote Chewbacca et croiser la route du charmant escroc Lando Calrissian… Ce voyage initiatique révèlera la personnalité d’un des héros les plus marquants de la saga Star Wars.",
+    "duration": "2h15",
+    "origine": "Etats-Unis",
+    "realisateur": " Ron Howard",
+    "acteurs": [
+    " Alden Ehrenreich, Woody Harrelson, Emilia Clarke"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=mJUsd9D9NW0&t=72s",
+    "created_at": "2025-08-23",
+    "release_date": "23 mai 2018",
+    "une": false,
+    "une_scr": "https://www.hdwallpapers.in/download/solo_a_star_wars_story_2018_4k-wide.jpg"
   }
 
 ]
