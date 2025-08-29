@@ -4388,5 +4388,30 @@
     "une": false,
     "une_scr": "https://w0.peakpx.com/wallpaper/591/28/HD-wallpaper-zack-snyders-justice-league-league-snyders-justice-zack.jpg"
   }
-
+  ,
+  {
+    "id": 65,
+    "title": "Dragon Ball : Épisode de Bardock",
+    "category": "Animation,  Manga",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img3.acsta.net/c_310_420/pictures/18/11/06/18/09/3077696.jpg",
+    "poster": "https://fr.web.img3.acsta.net/c_310_420/pictures/18/11/06/18/09/3077696.jpg",
+    "videoUrl": "https://myboxflix.fr/Zack Snyder's Justice League.mp4",
+    "description": "Frappé de plein fouet par la boule d'énergie de Freezer, Baddack se réveille sur une mystérieuse planète. Il fait la rencontre d'un habitant local Berry, avec qui il se lie très vite d'amitié. C'est pourquoi il décide de lui venir en aide pour lutter contre Chilled, un envahisseur extraterrestre.",
+    "duration": "0h20",
+    "origine": "Japon",
+    "realisateur": "Yoshihiro Ueda",
+    "acteurs": [
+    "..."
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=hzCszFRby-E",
+    "created_at": "2025-08-25",
+    "release_date": "17 Décembre 2011",
+    "une": false,
+    "une_scr": "https://image.tmdb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg"
+  }
 ]
