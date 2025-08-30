@@ -723,7 +723,7 @@
     "type": "serie",
     "series": "Alien Earth",
     "title": "Alien Earth",
-    "category": " Science Fiction, Action, Epouvante-horreur",
+    "category": " Science-fiction, Action, Epouvante-horreur",
     "seriesDescription": "Lorsqu'un mystérieux vaisseau spatial s'écrase sur la Terre, une jeune femme et un groupe de militaires font une incroyable découverte sur place qui les confronte à la plus grande menace que la planète n'ait jamais connue. En 2120, la Terre est gouvernée par cinq corporations : Prodigy, Weyland-Yutani, Lynch, Dynamic et Threshold. À cette époque, les cyborgs (humains dotés de parties biologiques et artificielles) et les synthétiques (robots humanoïdes dotés d'intelligence artificielle) cohabitent avec les humains. Mais la donne change lorsque le jeune prodige, fondateur et PDG de Prodigy Corporation, dévoile une nouvelle avancée technologique : les hybrides (robots humanoïdes dotés d'une conscience humaine). Le premier prototype hybride, baptisé Wendy, marque une nouvelle ère dans la course à l'immortalité. Après la collision du vaisseau spatial de Weyland-Yutani avec Prodigy City, Wendy et les autres hybrides rencontrent des formes de vie mystérieuses, plus terrifiantes que quiconque aurait pu l'imaginer... Prequel dont l'action se déroule deux ans avant les événements du film de Ridley Scott Alien (1979).",
     "origine": "États-Unis",
     "child": true,
@@ -3915,7 +3915,7 @@
   {
     "id": 46,
     "title": "Superman",
-    "category": "Action, Science Fiction, Super‑héros",
+    "category": "Action, Science-fiction, Super‑héros",
     "type": "film",
     "series": null,
     "season": null,
@@ -4066,7 +4066,7 @@
   {
     "id": 52,
     "title": "Star Wars IX - L'Ascension de Skywalker",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4091,7 +4091,7 @@
   {
     "id": 53,
     "title": "Star Wars VIII - Les derniers Jedi",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4116,7 +4116,7 @@
   {
     "id": 54,
     "title": "Star Wars VII - Le réveil de la force",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4141,7 +4141,7 @@
   {
     "id": 55,
     "title": "Star Wars : Episode VI - Le Retour du Jedi",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4166,7 +4166,7 @@
   {
     "id": 56,
     "title": "Star Wars : Episode V - L'Empire contre-attaque",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4191,7 +4191,7 @@
   {
     "id": 57,
     "title": "Star Wars : Episode IV - Un nouvel espoir",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4216,7 +4216,7 @@
   {
     "id": 58,
     "title": "Rogue One: A Star Wars Story",
-    "category": " Science-Fiction, Aventure, Star Wars",
+    "category": " Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4241,7 +4241,7 @@
   {
     "id": 59,
     "title": "Star Wars - The Clone Wars",
-    "category": "Animation, Famille, Science-Fiction, Aventure, Star Wars",
+    "category": "Animation, Famille, Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4266,7 +4266,7 @@
   {
     "id": 60,
     "title": "Solo - A Star Wars Story",
-    "category": "Science-Fiction, Aventure, Star Wars",
+    "category": "Science-fiction, Aventure, Star Wars",
     "type": "film",
     "series": null,
     "season": null,
@@ -4291,7 +4291,7 @@
   {
     "id": 61,
     "title": "Thor : Ragnarok",
-    "category": "Science-Fiction, Aventure, Action, Super-héros, Marvel",
+    "category": "Science-fiction, Aventure, Action, Super-héros, Marvel",
     "type": "film",
     "series": null,
     "season": null,
@@ -4366,7 +4366,7 @@
   {
     "id": 64,
     "title": "Zack Snyder's Justice League",
-    "category": "Science-Fiction, Aventure, Action, Super-héros, DC",
+    "category": "Science-fiction, Aventure, Action, Super-héros, DC",
     "type": "film",
     "series": null,
     "season": null,
@@ -4413,5 +4413,30 @@
     "release_date": "17 Décembre 2011",
     "une": false,
     "une_scr": "https://image.tmdb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Les 4 Fantastiques",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img3.acsta.net/c_310_420/pictures/15/07/10/12/04/290362.jpg",
+    "poster": "https://fr.web.img3.acsta.net/c_310_420/pictures/15/07/10/12/04/290362.jpg",
+    "videoUrl": "https://myboxflix.fr/Les 4 Fantastiques.mp4",
+    "description": "Adaptation moderne et résolument nouvelle de la plus ancienne équipe de super-héros Marvel, le film se concentre sur quatre jeunes génies qui se retrouvent projetés dans un univers alternatif et dangereux, qui modifie leurs formes physiques mais aussi leurs vies de façon radicale. Ils devront apprendre à maîtriser leurs nouvelles capacités et à travailler ensemble pour sauver la Terre d’un ancien allié devenu leur ennemi.",
+    "duration": "1h40",
+    "origine": "Etats-Unis",
+    "realisateur": " Josh Trank",
+    "acteurs": [
+    " Miles Teller, Kate Mara, Michael B. Jordan"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=hzCszFRby-E",
+    "created_at": "2025-03-25",
+    "release_date": "5 août 2015",
+    "une": false,
+    "une_scr": "https://wallpaper.forfun.com/fetch/b8/b86d5208a8f768fa5024e76546f8cd0c.jpeg"
   }
 ]
