@@ -4934,13 +4934,13 @@
     "series": null,
     "season": null,
     "episode": null,
-    "child" : true,
+    "child" : false,
     "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/23/05/12/09/06/0196579.jpg",
     "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/23/05/12/09/06/0196579.jpg",
     "videoUrl": "https://myboxflix.fr/Medellin.mp4",
     "description": "Pablito est un jeune Youtubeur, fasciné par Pablo Escobar. Il décide de réaliser son rêve en partant à Medellin sur les traces du baron de la drogue. Quelques jours plus tard, c'est par une vidéo postée sur ses réseaux sociaux, que le monde découvre que Pablito est aux mains de dangereux narcos, qui exigent une énorme rançon pour le libérer.  Plata o Plomo !  . Mais ce que les Narcos ignorent c'est que Pablito a un grand frère et que ce grand frère a un plan aussi simple que totalement insensé : monter une équipe, faire une descente en Colombie pour affronter les hommes du cartel et ramener son petit frère sain et sauf.",
     "duration": " 1h44",
-    "origine": "Etats-Unis",
+    "origine": "France",
     "realisateur": " Franck Gastambide",
     "acteurs": [
     " Franck Gastambide, Ramzy Bedia, Anouar Toubali"
@@ -4951,5 +4951,80 @@
     "une": false,
     "une_scr": "https://resizing.flixster.com/SvFWS3KUK8lTgAtDiKWsVJX2l-o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24796173_k_h10_aa.jpg"
   }
-
+  ,
+  {
+    "id": 87,
+    "title": "Les Trois Mousquetaires - D'Artagnan",
+    "category": "  Aventure, Historique",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/01/16/11/55/4417568.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/01/16/11/55/4417568.jpg",
+    "videoUrl": "https://myboxflix.fr/Les Trois Mousquetaires - D Artagnan.mp4",
+    "description": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+    "duration": " 2h01",
+    "origine": "France",
+    "realisateur": " Franck Gastambide",
+    "acteurs": [
+    " Vincent Cassel, François Civil, Romain Duris"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=a_OUHJziaoE",
+    "created_at": "2025-08-31",
+    "release_date": "5 avril 2023",
+    "une": false,
+    "une_scr": "https://www.ecranlarge.com/content/uploads/2023/04/les-trois-mousquetaires-dartagnan-critique-les-3-mousquetaires-1473476.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Les Trois Mousquetaires - Milady",
+    "category": "  Aventure, Historique",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/10/06/12/03/1531578.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/10/06/12/03/1531578.jpg",
+    "videoUrl": "https://myboxflix.fr/Les Trois Mousquetaires - Milady.mp4",
+    "description": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
+    "duration": " 1h55",
+    "origine": "France",
+    "realisateur": "Martin Bourboulon",
+    "acteurs": [
+    " Vincent Cassel, François Civil, Romain Duris"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=q_CLdbJnGIw",
+    "created_at": "2025-08-31",
+    "release_date": "13 décembre 2023",
+    "une": false,
+    "une_scr": "https://media.pathe.fr/news/common/backdrop/84807/lg/1/milady-actu.jpg"
+  },
+  {
+    "id": 89,
+    "title": "Gran Turismo",
+    "category": " Course, Drame",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/23/05/03/10/55/2291595.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/23/05/03/10/55/2291595.jpg",
+    "videoUrl": "https://myboxflix.fr/Gran Turismo.mp4",
+    "description": "Gran Turismo retrace l'incroyable histoire vraie d'une équipe d'outsiders : un gamer issu de la classe ouvrière, un ex-pilote de course raté et un cadre idéaliste de l’industrie du sport automobile. Ensemble, ils risquent tout et s'attaquent au sport le plus élitiste au monde. Inspirant, palpitant et bourré d’action, le film GRAN TURISMO prouve que rien n'est impossible quand on est déterminé à prendre tous les risques.",
+    "duration": " 2h15",
+    "origine": "Etats-Unis",
+    "realisateur": "Neill Blomkamp",
+    "acteurs": [
+    " David Harbour, Orlando Bloom, Archie Madekwe"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=oS_E5W7URs4",
+    "created_at": "2025-09-01",
+    "release_date": "9 août 2023",
+    "une": false,
+    "une_scr": "https://w0.peakpx.com/wallpaper/673/356/HD-wallpaper-2023-grand-turismo-8k-gran-turismo-movies-2023-movies.jpg"
+  }
 ]
