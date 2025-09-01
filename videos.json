@@ -4874,6 +4874,82 @@
     "release_date": "24 avril 2019",
     "une": false,
     "une_scr": "https://images.alphacoders.com/100/1002901.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Blue Beetle",
+    "category": "Marvel, Action, Aventure, Super-héros",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img3.acsta.net/c_310_420/pictures/23/08/11/15/51/5392555.jpg",
+    "poster": "https://fr.web.img3.acsta.net/c_310_420/pictures/23/08/11/15/51/5392555.jpg",
+    "videoUrl": "https://myboxflix.fr/Blue Beetle.mp4",
+    "description": "Fraîchement diplômé de l’université, Jaime Reyes rentre chez lui, plein d’ambitions, mais il découvre que la situation a bien changé depuis son départ. Tandis qu’il cherche sa place dans le monde, le destin s’en mêle : Jaime se retrouve par hasard en possession du Scarabée, une ancienne relique d’une biotechnologie extraterrestre. Dès lors que le Scarabée choisit de faire de Jaime son hôte, le jeune homme se voit revêtu d’une armure hors du commun qui lui octroie des pouvoirs extraordinaires – et imprévisibles. Tout bascule alors pour Jaime qui devient le super-héros Blue Beetle …",
+    "duration": " 2h08",
+    "origine": "Etats-Unis",
+    "realisateur": "Angel Manuel Soto",
+    "acteurs": [
+    "  Xolo Maridueña, Bruna Marquezine, Susan Sarandon"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=ynzvuY_Nkzw",
+    "created_at": "2025-08-30",
+    "release_date": "16 août 2023",
+    "une": false,
+    "une_scr": "https://www.hdwallpapers.in/download/superhero_4k_hd_blue_beetle-3840x2160.jpg"
+  },
+  {
+    "id": 85,
+    "title": "The Beast Within",
+    "category": " Drame, Epouvante-horreur, Thriller",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/img/c0/23/c023b1dde271a455b4c5a93d0ae7497d.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/img/c0/23/c023b1dde271a455b4c5a93d0ae7497d.jpg",
+    "videoUrl": "https://myboxflix.fr/The Beast Within.mp4",
+    "description": "1965, une fillette de 10 ans, commence à s'interroger sur la vie inhabituelle qu'elle mène dans l'enceinte fortifiée de sa famille, au fin fond des montagnes de l'Arkansas. Elle découvre qu'une fois par mois, son père se transforme en monstre...",
+    "duration": " 1h37",
+    "origine": "Etats-Unis",
+    "realisateur": "Alexander J. Farrell",
+    "acteurs": [
+    " Kit Harington, Ashleigh Cummings, James Cosmo"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=-E1mE0gno7k",
+    "created_at": "2025-08-30",
+    "release_date": "1 janvier 2025",
+    "une": false,
+    "une_scr": "https://www.framerated.co.uk/frwpcontent/uploads/2024/07/beastwithin01-978x652.jpg"
+  }
+  ,
+  {
+    "id": 86,
+    "title": "Medellin",
+    "category": " Action, Comédie",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/23/05/12/09/06/0196579.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/23/05/12/09/06/0196579.jpg",
+    "videoUrl": "https://myboxflix.fr/Medellin.mp4",
+    "description": "Pablito est un jeune Youtubeur, fasciné par Pablo Escobar. Il décide de réaliser son rêve en partant à Medellin sur les traces du baron de la drogue. Quelques jours plus tard, c'est par une vidéo postée sur ses réseaux sociaux, que le monde découvre que Pablito est aux mains de dangereux narcos, qui exigent une énorme rançon pour le libérer.  Plata o Plomo !  . Mais ce que les Narcos ignorent c'est que Pablito a un grand frère et que ce grand frère a un plan aussi simple que totalement insensé : monter une équipe, faire une descente en Colombie pour affronter les hommes du cartel et ramener son petit frère sain et sauf.",
+    "duration": " 1h44",
+    "origine": "Etats-Unis",
+    "realisateur": " Franck Gastambide",
+    "acteurs": [
+    " Franck Gastambide, Ramzy Bedia, Anouar Toubali"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=nb6YQAlh7bU",
+    "created_at": "2025-08-30",
+    "release_date": "2 juin 2023",
+    "une": false,
+    "une_scr": "https://resizing.flixster.com/SvFWS3KUK8lTgAtDiKWsVJX2l-o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24796173_k_h10_aa.jpg"
   }
 
 ]
