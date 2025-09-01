@@ -4749,6 +4749,31 @@
     "release_date": "15 novembre 2023",
     "une": false,
     "une_scr": "https://mhscattalk.com/wp-content/uploads/2023/11/TBOSAS-2.jpeg"
+  },
+  {
+    "id": 79,
+    "title": "Spider-Man - Homecoming",
+    "category": "Marvel, Action, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/05/30/13/13/145510.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/17/05/30/13/13/145510.jpg",
+    "videoUrl": "https://myboxflix.fr/Spider-Man - Homecoming.mp4",
+    "description": "Après ses spectaculaires débuts dans Captain America : Civil War, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le super-héros lanceur de toile. Galvanisé par son expérience avec les Avengers, Peter rentre chez lui auprès de sa tante May, sous l’œil attentif de son nouveau mentor, Tony Stark. Il s’efforce de reprendre sa vie d’avant, mais au fond de lui, Peter rêve de se prouver qu’il est plus que le sympathique super héros du quartier. L’apparition d’un nouvel ennemi, le Vautour, va mettre en danger tout ce qui compte pour lui...",
+    "duration": "2h 13min",
+    "origine": "Etats-Unis",
+    "realisateur": " Jon Watts",
+    "acteurs": [
+    "Tom Holland, Michael Keaton, Robert Downey Jr."
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=BmbfD7F3BoQ&t=6s",
+    "created_at": "2025-08-27",
+    "release_date": "12 juillet 2017",
+    "une": false,
+    "une_scr": "https://wallpapercave.com/wp/wp1908899.jpg"
   }
 
 ]
