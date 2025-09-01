@@ -4724,6 +4724,31 @@
     "release_date": "25 avril 2015",
     "une": false,
     "une_scr": "https://www.cinehorizons.net/sites/default/files/affiches/2077001195-avengers-age-ultron.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Hunger Games - La Ballade du serpent et de l'oiseau chanteur",
+    "category": "Science-fiction, Action, Aventure",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/23/09/20/16/33/4604785.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/23/09/20/16/33/4604785.jpg",
+    "videoUrl": "https://myboxflix.fr/Hunger Games - La Ballade du serpent et de l'oiseau chanteur.mp4",
+    "description": "Le jeune Coriolanus est le dernier espoir de sa lignée, la famille Snow autrefois riche et fière est aujourd’hui tombée en disgrâce dans un Capitole d'après-guerre. À l’approche des 10ème HUNGER GAMES, il est assigné à contrecœur à être le mentor de Lucy Gray Baird, une tribut originaire du District 12, le plus pauvre et le plus méprisé de Panem. Le charme de Lucy Gray ayant captivé le public, Snow y voit l’opportunité de changer son destin, et va s’allier à elle pour faire pencher le sort en leur faveur. Luttant contre ses instincts, déchiré entre le bien et le mal, Snow se lance dans une course contre la montre pour survivre et découvrir s’il deviendra finalement un oiseau chanteur ou un serpent.",
+    "duration": "2h 38min",
+    "origine": "Etats-Unis",
+    "realisateur": " Francis Lawrence",
+    "acteurs": [
+    " Tom Blyth, Rachel Zegler, Peter Dinklage"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=BLJSN_UNqbc&t=1s",
+    "created_at": "2025-03-25",
+    "release_date": "15 novembre 2023",
+    "une": false,
+    "une_scr": "https://mhscattalk.com/wp-content/uploads/2023/11/TBOSAS-2.jpeg"
   }
 
 ]
