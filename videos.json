@@ -776,6 +776,17 @@
             "duration": "53min",
             "child": true,
             "created_at": "2025-08-23"
+          },
+          {
+            "id": 1003,
+            "title": "Observation",
+            "episode": 4,
+            "thumbnail": "https://fr.web.img6.acsta.net/r_1920_1080/img/85/db/85db921f6bc8dcb3b1e7aa9c5c4083f9.jpg",
+            "videoUrl": "https://myboxflix.fr/Alien/1/Alien.Earth.S01E04.TRUEFRENCH.1080p.WEB.H264-FW-Wawacity.diy.mp4",
+            "description": "Des liens inattendus se tissent alors qu'un complot secret met tout le monde en danger.",
+            "duration": "53min",
+            "child": true,
+            "created_at": "2025-09-01"
           }
         ]
       }
