@@ -5096,7 +5096,7 @@
     "series": null,
     "season": null,
     "episode": null,
-    "child" : true,
+    "child" : false,
     "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/img/76/36/763625198f65137a7feb27001ca50278.jpg",
     "poster": "https://fr.web.img5.acsta.net/c_310_420/img/76/36/763625198f65137a7feb27001ca50278.jpg",
     "videoUrl": "https://myboxflix.fr/Nobody.2.2025.MULTi.1080p.WEB.H264-SUPPLY.mp4",
