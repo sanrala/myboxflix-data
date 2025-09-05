@@ -787,6 +787,17 @@
             "duration": "53min",
             "child": true,
             "created_at": "2025-09-01"
+          },
+          {
+            "id": 1004,
+            "title": "Dans l'espace, personne...",
+            "episode": 5,
+            "thumbnail": "https://fr.web.img6.acsta.net/r_1920_1080/img/85/db/85db921f6bc8dcb3b1e7aa9c5c4083f9.jpg",
+            "videoUrl": "https://myboxflix.fr/Alien/1/Alien.Earth.S01e05.Multi.WEBRIP.mp4",
+            "description": "L'heure du jugement sonne pour l'équipage d'un vaisseau spatial en péril.",
+            "duration": "53min",
+            "child": true,
+            "created_at": "2025-09-05"
           }
         ]
       }
@@ -4954,7 +4965,7 @@
   ,
   {
     "id": 87,
-    "title": "Les Trois Mousquetaires - D'Artagnan",
+    "title": "Les Trois Mousquetaires - D Artagnan",
     "category": "  Aventure, Historique",
     "type": "film",
     "series": null,
@@ -4963,7 +4974,7 @@
     "child" : false,
     "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/01/16/11/55/4417568.jpg",
     "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/01/16/11/55/4417568.jpg",
-    "videoUrl": "https://myboxflix.fr/Les Trois Mousquetaires - D Artagnan.mp4",
+    "videoUrl": "https://myboxflix.fr/Les Trois Mousquetaires DArtagnan.mp4",
     "description": "Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle… dans un Royaume divisé par les guerres de religion et menacé d’invasion par l’Angleterre, une poignée d’hommes et de femmes vont croiser leurs épées et lier leur destin à celui de la France.",
     "duration": " 2h01",
     "origine": "France",
@@ -5026,5 +5037,80 @@
     "release_date": "9 août 2023",
     "une": false,
     "une_scr": "https://c4.wallpaperflare.com/wallpaper/327/832/988/gran-turismo-sport-car-gran-turismo-wallpaper-preview.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Y a-t-il un flic pour sauver le monde ?",
+    "category": "Action, Comédie",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/img/fb/58/fb582203041242b6b13cf2a05660ffb6.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/img/fb/58/fb582203041242b6b13cf2a05660ffb6.jpg",
+    "videoUrl": "https://myboxflix.fr/Gran Turismo.mp4",
+    "description": "Un seul homme possède des compétences… disons uniques… pour diriger la prestigieuse Brigade Spéciale et… sauver le monde, tout simplement ! Cet homme, c’est le lieutenant Frank Drebin Jr. — oui, vous avez bien lu — c’est lui qui suit les traces de son illustre père dans Y a-t-il un flic pour sauver le monde ?",
+    "duration": " 1h25",
+    "origine": "Etats-Unis",
+    "realisateur": "Akiva Schaffer",
+    "acteurs": [
+    " Liam Neeson, Pamela Anderson, Paul Walter Hauser"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=jWnO6T9Opgs",
+    "created_at": "2025-09-05",
+    "release_date": "13 août 2025",
+    "une": false,
+    "une_scr": "https://www.ecranlarge.com/content/uploads/2025/08/y-a-t-il-un-flic-pour-sauver-le-monde-critique-dune-police-qui-tue-de-rire-pour-une-fois-1260x708.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Nobody",
+    "category": "Action",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/21/01/04/17/52/0328539.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/21/01/04/17/52/0328539.jpg",
+    "videoUrl": "https://myboxflix.fr/Nobody.mp4",
+    "description": "Hutch Mansell, un père et un mari frustré, totalement déconsidéré par sa famille, se contente d’encaisser les coups, sans jamais les rendre. Il n’est rien. Une nuit, alors que deux cambrioleurs pénètrent chez lui, il fait le choix de ne pas intervenir, plutôt que de risquer une escalade sanglante. Une décision qui le discrédite définitivement aux yeux de son fils Blake, et qui semble l’éloigner encore plus de sa femme Becca. Cet incident réveille chez cet homme blessé des instincts larvés qui vont le propulser sur une voie violente, révélant des zones d’ombres et des compétences létales insoupçonnées. Dans une avalanche de coups de poings, de fusillades et de crissements de pneus, il va tout faire pour tirer sa famille des griffes d’un redoutable ennemi et s’assurer que, plus jamais, personne ne le prenne pour un moins que rien.",
+    "duration": " 1h32",
+    "origine": "Etats-Unis",
+    "realisateur": " Ilya Naishuller",
+    "acteurs": [
+    "  Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=DC5uitPtaC0",
+    "created_at": "2021-07-05",
+    "release_date": "2 juin 2021",
+    "une": false,
+    "une_scr": "https://images.alphacoders.com/114/1148858.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Nobody 2",
+    "category": "Action",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/img/76/36/763625198f65137a7feb27001ca50278.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/img/76/36/763625198f65137a7feb27001ca50278.jpg",
+    "videoUrl": "https://myboxflix.fr/Nobody 2.mp4",
+    "description": "Quatre ans après sa malencontreuse altercation avec la mafia russe, Hutch doit toujours 30 millions de dollars à la redoutable organisation et s'efforce de rembourser en enchainant sans répits les contrats d’une liste de criminels à abattre, aussi interminable qu’internationale. Bien qu'il apprécie le caractère intense de son ‘‘travail’’, Hutch se retrouve vite surmené, tout comme sa femme Becca et ils s'éloignent inexorablement l'un de l'autre. Ils décident donc de partir avec leurs enfants pour une escapade au Wild Bill's Majestic, un parc d’attraction dans l’Arkansas, le seul et unique endroit où Hutch et son frère Harry aient jamais passé de vacances ensemble. Embarquant son père dans la foulée, Hutch et sa famille débarquent au grand complet dans la petite ville touristique de Plummerville, avec la ferme intention d’y passer du bon temps au soleil. Mais quand, à la suite d’un incident mineur avec des voyous locaux, la famille se retrouve dans la ligne de mire du directeur du parc aussi corrompu que son shérif est véreux, Hutch va attirer sur lui l’attention de l’esprit criminel peut-être le plus dérangé et le plus sanguinaire qu'il, ou qui que ce soit d’ailleurs, ait jamais rencontré.",
+    "duration": " 1h29",
+    "origine": "Etats-Unis",
+    "realisateur": " Timo Tjahjanto",
+    "acteurs": [
+    "  Bob Odenkirk, Connie Nielsen, Christopher Lloyd"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=_K286gOz-6I",
+    "created_at": "2025-09-03",
+    "release_date": "13 août 2025",
+    "une": false,
+    "une_scr": "https://4kwallpapers.com/images/wallpapers/nobody-2-2025-bob-2560x1440-23600.jpg"
   }
 ]
