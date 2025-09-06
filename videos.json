@@ -5162,5 +5162,55 @@
     "release_date": "18 avril 2018",
     "une": false,
     "une_scr": "https://images.rtl.fr/~c/770v513/rtl2/www/980015-love-addict-en-avant-premiere-a-kinepolis.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Hulk",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img4.acsta.net/c_310_420/medias/nmedia/00/02/54/34/affiche2.jpg",
+    "poster": "https://fr.web.img4.acsta.net/c_310_420/medias/nmedia/00/02/54/34/affiche2.jpg",
+    "videoUrl": "https://myboxflix.fr/Hulk.mp4",
+    "description": "Au cours d'une opération scientifique qui a mal tourné, le docteur Bruce Banner est exposé à une surdose de radiations nucléaires. Miraculeusement indemne, il sort néanmoins affecté de cette douloureuse expérience et développe le pouvoir de se transformer en Hulk, un monstre vert à la force surhumaine et à la rage incontrôlable. Cette créature ne se manifeste que lorsque ce dernier est soumis à une intense émotion.    Mis au ban de la société, le docteur Banner est obligé de se cacher pour ne pas faire subir aux autres sa métamorphose. Le général Ross, le père de Betty, l'ex-petite amie de Bruce, est chargé de stopper le monstre par tous les moyens. Glenn Talbot, rival scientifique de Banner, est également sur les traces de Hulk. Lorsque Betty découvre que la créature a un rapport avec les recherches du père de Bruce, elle devient la seule à pouvoir comprendre ce qu'est Hulk...",
+    "duration": " 2h 20min",
+    "origine": "Etats-Unis",
+    "realisateur": "  Ang Lee",
+    "acteurs": [
+    " Eric Bana, Jennifer Connelly, Nick Nolte"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=n5xO7qjVcdQ",
+    "created_at": "2023-09-02",
+    "release_date": "2 juillet 2003",
+    "une": false,
+    "une_scr": "https://images3.alphacoders.com/946/thumb-1920-946303.jpg"
+  },
+  {
+    "id": 96,
+    "title": "L'Incroyable Hulk",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/65/69/21/18949753.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/65/69/21/18949753.jpg",
+    "videoUrl": "https://myboxflix.fr/L Incroyable Hulk.mp4",
+    "description": "Au cours d'une opération scientifique qui a mal tourné, le docteur Bruce Banner est exposé à une surdose de radiations nucléaires. Miraculeusement indemne, il sort néanmoins affecté de cette douloureuse expérience et développe le pouvoir de se transformer en Hulk, un monstre vert à la force surhumaine et à la rage incontrôlable. Cette créature ne se manifeste que lorsque ce dernier est soumis à une intense émotion.    Mis au ban de la société, le docteur Banner est obligé de se cacher pour ne pas faire subir aux autres sa métamorphose. Le général Ross, le père de Betty, l'ex-petite amie de Bruce, est chargé de stopper le monstre par tous les moyens. Glenn Talbot, rival scientifique de Banner, est également sur les traces de Hulk. Lorsque Betty découvre que la créature a un rapport avec les recherches du père de Bruce, elle devient la seule à pouvoir comprendre ce qu'est Hulk...",
+    "duration": " 2h 20min",
+    "origine": "Etats-Unis",
+    "realisateur": "  Louis Leterrier",
+    "acteurs": [
+    "  Edward Norton, Liv Tyler, Tim Roth"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=LCjTxK1B5Pg",
+    "created_at": "2023-09-02",
+    "release_date": "23 juillet 2008",
+    "une": false,
+    "une_scr": "https://c4.wallpaperflare.com/wallpaper/62/990/329/hulk-smash-wallpaper-preview.jpg"
   }
 ]
