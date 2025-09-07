@@ -5312,5 +5312,55 @@
     "release_date": "13 juillet 2022",
     "une": false,
     "une_scr": "https://c4.wallpaperflare.com/wallpaper/370/622/460/thor-movie-thor-and-jane-foster-thor-movie-poster-wallpaper-preview.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Dumb and Dumber",
+    "category": "Comédie",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/70/93/55/19754569.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/70/93/55/19754569.jpg",
+    "videoUrl": "https://myboxflix.fr/Dumb and Dumber.mp4",
+    "description": "Après un malentendu à l'aéroport, deux amis, Lloyd et Harry, spécialistes de l'élevages de lombrics, partent à la recherche de Mary qui semble y avoir oubliée sa valise. Mais, ils se retrouvent au centre d'un complot.",
+    "duration": "1h 46min",
+    "origine": "Etats-Unis",
+    "realisateur": " Bobby Farrelly, Bennett Yellin ",
+    "acteurs": [
+    " Jim Carrey, Jeff Daniels, Brady Bluhm"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=INc3rOgDy-Q",
+    "created_at": "2025-09-07",
+    "release_date": "14 juin 1995",
+    "une": false,
+    "une_scr": "https://images4.alphacoders.com/729/729278.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Dumb & Dumber De",
+    "category": "Comédie",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/pictures/14/10/24/11/31/474176.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/pictures/14/10/24/11/31/474176.jpg",
+    "videoUrl": "https://myboxflix.fr/Dumb and Dumber De.mp4",
+    "description": "Vingt ans après, Lloyd et Harry sont toujours amis – et toujours aussi débiles ! Quand ils apprennent qu’Harry est père, les deux amis se lancent dans un nouveau road trip à la recherche de sa fille. Ils vont sillonner le pays à bord de véhicules toujours plus improbables, semant la folie et le chaos jusqu’à un endroit où ils n’auraient jamais dû pouvoir se retrouver…",
+    "duration": "1h 49min",
+    "origine": "Etats-Unis",
+    "realisateur": " Bobby Farrelly, Bennett Yellin ",
+    "acteurs": [
+    " Jim Carrey, Jeff Daniels, Rob Riggle"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=Of_xpwh2cic",
+    "created_at": "2025-09-07",
+    "release_date": "17 décembre 2014",
+    "une": false,
+    "une_scr": "https://wallpapers.com/images/hd/dumb-and-dumber-pictures-pezqdo2gqhxolvp7.jpg"
   }
 ]
