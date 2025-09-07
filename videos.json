@@ -5237,5 +5237,80 @@
     "release_date": "27 octobre 2023",
     "une": false,
     "une_scr": "https://www.brickfanatics.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-featured-image.png"
+  },
+  {
+    "id": 98,
+    "title": "Thor",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/77/96/35/19701393.jpg",
+    "poster": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/77/96/35/19701393.jpg",
+    "videoUrl": "https://myboxflix.fr/Thor.mp4",
+    "description": "Au royaume d’Asgard, Thor est un guerrier aussi puissant qu’arrogant dont les actes téméraires déclenchent une guerre ancestrale. Banni et envoyé sur Terre, par son père Odin, il est condamné à vivre parmi les humains. Mais lorsque les forces du mal de son royaume s’apprêtent à se déchaîner sur la Terre, Thor va apprendre à se comporter en véritable héros…",
+    "duration": "  1h 55min",
+    "origine": "Etats-Unis",
+    "realisateur": "  Kenneth Branagh",
+    "acteurs": [
+    "Chris Hemsworth, Natalie Portman, Anthony Hopkins"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=MeN3Gwf2sDg",
+    "created_at": "2023-05-02",
+    "release_date": "27 avril 2011",
+    "une": false,
+    "une_scr": "https://images5.alphacoders.com/487/487234.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Thor : Le Monde des ténèbres",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/210/407/21040735_20130916181657638.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/210/407/21040735_20130916181657638.jpg",
+    "videoUrl": "https://myboxflix.fr/Thor - Le Monde des tenebres.mp4",
+    "description": "Thor : Le Monde des ténèbres nous entraîne dans les nouvelles aventures de Thor, le puissant Avenger, qui lutte pour sauver la Terre et les neuf mondes d’un mystérieux ennemi qui convoite l’univers tout entier… Après les films Marvel Thor et Avengers, Thor se bat pour restaurer l’ordre dans le cosmos, mais une ancienne race, sous la conduite du terrible Malekith, un être assoiffé de vengeance, revient pour répandre les ténèbres. Confronté à un ennemi que même Odin et Asgard ne peuvent contrer, Thor doit s’engager dans son aventure la plus dangereuse et la plus personnelle, au cours de laquelle il va devoir s’allier au traître Loki pour sauver non seulement son peuple et ceux qui lui sont chers, mais aussi l’univers lui-même.",
+    "duration": "  1h 52min",
+    "origine": "Etats-Unis",
+    "realisateur": "  Alan Taylor",
+    "acteurs": [
+    "Chris Hemsworth, Natalie Portman, Anthony Hopkins"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=uq4OFEwflnI",
+    "created_at": "2023-05-02",
+    "release_date": "30 octobre 2013",
+    "une": false,
+    "une_scr": "https://wallpaper.forfun.com/fetch/39/39eb45fd04ea15ae15e71d3f99eb12af.jpeg"
+  },
+  {
+    "id": 105,
+    "title": "Thor: Love And Thunder",
+    "category": "Action, Fantastique, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/22/05/24/11/16/2411535.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/22/05/24/11/16/2411535.jpg",
+    "videoUrl": "https://myboxflix.fr/Thor - Love and Thunder.mp4",
+    "description": "Alors que Thor est en pleine introspection et en quête de sérénité, sa retraite est interrompue par un tueur galactique connu sous le nom de Gorr, qui s’est donné pour mission d’exterminer tous les dieux. Pour affronter cette menace, Thor demande l’aide de Valkyrie, de Korg et de son ex-petite amie Jane Foster, qui, à sa grande surprise, manie inexplicablement son puissant marteau, le Mjolnir. Ensemble, ils se lancent dans une dangereuse aventure cosmique pour comprendre les motivations qui poussent Gorr à la vengeance et l’arrêter avant qu’il ne soit trop tard.",
+    "duration": "  1h 59min",
+    "origine": "Etats-Unis",
+    "realisateur": "Taika Waititi ",
+    "acteurs": [
+    "Chris Hemsworth, Natalie Portman, Christian Bale"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=wPPim0we5m8",
+    "created_at": "2023-05-02",
+    "release_date": "13 juillet 2022",
+    "une": false,
+    "une_scr": "https://c4.wallpaperflare.com/wallpaper/370/622/460/thor-movie-thor-and-jane-foster-thor-movie-poster-wallpaper-preview.jpg"
   }
 ]
