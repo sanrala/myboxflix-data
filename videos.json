@@ -5212,5 +5212,30 @@
     "release_date": "23 juillet 2008",
     "une": false,
     "une_scr": "https://c4.wallpaperflare.com/wallpaper/62/990/329/hulk-smash-wallpaper-preview.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Lego Marvel Avengers : Code Rouge",
+    "category": "Animation, Famille, Super-héros, Marvel",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/09/19/09/34/1884812.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/09/19/09/34/1884812.jpg",
+    "videoUrl": "https://myboxflix.fr/LEGO Marvel Avengers - Code Rouge.mp4",
+    "description": "Lorsque héros et méchants disparaissent mystérieusement, les Avengers s'unissent pour les trouver...",
+    "duration": " 44min",
+    "origine": "Etats-Unis",
+    "realisateur": " LEGO",
+    "acteurs": [
+    "LEGO"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=Fy40oMZjlPE",
+    "created_at": "2025-09-07",
+    "release_date": "27 octobre 2023",
+    "une": false,
+    "une_scr": "https://www.brickfanatics.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-featured-image.png"
   }
 ]
