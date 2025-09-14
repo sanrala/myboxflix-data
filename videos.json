@@ -5362,5 +5362,30 @@
     "release_date": "17 décembre 2014",
     "une": false,
     "une_scr": "https://images4.alphacoders.com/729/729278.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Barbie",
+    "category": " Aventure, Comédie, Famille",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/06/16/12/04/4590179.jpg",
+    "poster": "https://fr.web.img2.acsta.net/c_310_420/pictures/23/06/16/12/04/4590179.jpg",
+    "videoUrl": "https://myboxflix.fr/Barbie.mp4",
+    "description": "A Barbie Land, vous êtes un être parfait dans un monde parfait. Sauf si vous êtes en crise existentielle, ou si vous êtes Ken.",
+    "duration": "1h 54min",
+    "origine": "Etats-Unis",
+    "realisateur": "Greta Gerwig",
+    "acteurs": [
+    "Margot Robbie, Ryan Gosling, America Ferrera"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=2oOzWcbVf1c",
+    "created_at": "2025-09-14",
+    "release_date": "19 juillet 2023",
+    "une": false,
+    "une_scr": "https://images5.alphacoders.com/132/thumb-1920-1322560.jpeg"
   }
 ]
