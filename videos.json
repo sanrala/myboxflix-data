@@ -792,9 +792,20 @@
             "id": 1004,
             "title": "Dans l'espace, personne...",
             "episode": 5,
-            "thumbnail": "https://fr.web.img6.acsta.net/r_1920_1080/img/85/db/85db921f6bc8dcb3b1e7aa9c5c4083f9.jpg",
+            "thumbnail": "https://fr.web.img5.acsta.net/r_1920_1080/img/a5/bf/a5bfb1cdc361e624d6f81917afa27ece.jpg",
             "videoUrl": "https://myboxflix.fr/Alien/1/Alien.Earth.S01e05.Multi.WEBRIP.mp4",
             "description": "L'heure du jugement sonne pour l'équipage d'un vaisseau spatial en péril.",
+            "duration": "53min",
+            "child": true,
+            "created_at": "2025-09-05"
+          },
+          {
+            "id": 1005,
+            "title": "La mouche",
+            "episode": 6,
+            "thumbnail": "https://fr.web.img4.acsta.net/r_1920_1080/img/f3/91/f391a2909637eb76e319206a8d0ea35c.jpg",
+            "videoUrl": "https://myboxflix.fr/Alien/1/Alien.Earth.S01E06.FRENCH.WEBRip.x264.mp4",
+            "description": "La tension monte alors que des ennemis s'affrontent et une curiosité mal placée tourne au trésor.",
             "duration": "53min",
             "child": true,
             "created_at": "2025-09-05"
@@ -5387,5 +5398,80 @@
     "release_date": "19 juillet 2023",
     "une": false,
     "une_scr": "https://images5.alphacoders.com/132/thumb-1920-1322560.jpeg"
+  },
+  {
+    "id": 109,
+    "title": "McWalter",
+    "category": "Action, Comédie",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : false,
+    "thumbnail": "https://fr.web.img4.acsta.net/c_310_420/img/98/0a/980a064983940929237f2f5c5a50a47c.jpg",
+    "poster": "https://fr.web.img4.acsta.net/c_310_420/img/98/0a/980a064983940929237f2f5c5a50a47c.jpg",
+    "videoUrl": "https://myboxflix.fr/MCWALTER.2025.FRENCH.1080p.WEBDL.EAC3.5.1.x264-FROSTIES.mp4",
+    "description": "Inspiré du personnage du même nom créé par Mister V, McWalter nous plonge dans les péripéties d’un agent secret déjanté. Après avoir éliminé un méchant qui menaçait la terre, et au passage une usine de pains à burger, McWalter peut enfin se consacrer à faire le deuil de sa compagne Tracy, morte accidentellement dans la précédente attaque. Mais c’était sans compter sur une série d’explosions mystérieuses qui secouent la planète. Son agence, exaspérée par ses méthodes destructrices, le convoque pour lui demander des comptes. Les choses tournent mal quand McWalter est accusé à tort : sur chaque lieu d’explosion, des traces de son ADN ont été retrouvées, l’impliquant directement. Mais s’il n’est pas coupable, alors qui orchestre ces attentats ? Alors qu’il tente de se défendre, une nouvelle explosion frappe le siège de l’agence... Pris au piège, notre héros doit non seulement prouver son innocence, mais aussi échapper à ceux qu’il a longtemps servis, tout en essayant de découvrir le cerveau derrière ces attaques dévastatrices.",
+    "duration": "1h 54min",
+    "origine": "Etats-Unis",
+    "realisateur": "Simon Astier",
+    "acteurs": [
+    "Mister V, Géraldine Nakache, William Lebghil"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=V70KiRo2XVY",
+    "created_at": "2025-09-13",
+    "release_date": "12 septembre 2025",
+    "une": false,
+    "une_scr": "https://images.bfmtv.com/yYswn9Xudjq55SZXacwoiyBQdQ8=/0x0:1920x1080/1920x0/images/Comment-voir-gratuitement-le-film-McWalter-sur-Prime-Video-le-film-tres-attendu-de-Mister-V-2135498.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Evanouis",
+    "category": "Epouvante-horreur",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img2.acsta.net/r_1920_1080/img/a9/34/a9349d0803d1c401e217faf417099347.jpg",
+    "poster": "https://fr.web.img2.acsta.net/r_1920_1080/img/a9/34/a9349d0803d1c401e217faf417099347.jpg",
+    "videoUrl": "https://myboxflix.fr/Weapons.2025.MULTi.VF2.1080p.WEB.H264-SUPPLY.mp4",
+    "description": "Lorsque tous les enfants d’une même classe, à l’exception d’un, disparaissent mystérieusement la même nuit, à la même heure, la ville entière cherche à découvrir qui — ou quoi — est à l’origine de ce phénomène inexpliqué.",
+    "duration": "2h 08min",
+    "origine": "Etats-Unis",
+    "realisateur": "Zach Cregger",
+    "acteurs": [
+    "Josh Brolin, Julia Garner, Alden Ehrenreich"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=IU19tsMKi2Q",
+    "created_at": "2025-09-12",
+    "release_date": "6 août 2025",
+    "une": false,
+    "une_scr": "https://m.media-amazon.com/images/S/pv-target-images/2102db9e3cfa62c5c20a7904291f2bb1134fbd6d40367676173f9bbe98c888d2._SX720_FMjpg_.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Dracula Untold",
+    "category": "Action, Epouvante-horreur, Fantastique",
+    "type": "film",
+    "series": null,
+    "season": null,
+    "episode": null,
+    "child" : true,
+    "thumbnail": "https://fr.web.img5.acsta.net/c_310_420/pictures/14/06/23/12/21/047909.jpg",
+    "poster": "https://fr.web.img5.acsta.net/c_310_420/pictures/14/06/23/12/21/047909.jpg",
+    "videoUrl": "https://myboxflix.fr/Dracula Untold 2014 MULTi-VF2 1080p BluRay x264-PopHD.mp4",
+    "description": "L’histoire débute en 1462. La Transylvanie vit une période de calme relatif sous le règne du prince Vlad III de Valachie et de son épouse bien-aimée Mirena. Ensemble, ils ont négocié la paix et la protection de leur peuple avec le puissant Empire ottoman dont la domination ne cesse de s’étendre en Europe de l’Est. Mais quand le sultan Mehmet II demande que 1000 jeunes hommes de Valachie, dont le propre fils de Vlad, Ingeras, soient arrachés à leur famille pour venir grossir les rangs de l’armée turque, le prince doit faire un choix : abandonner son fils au sultan, comme son père l’a fait avant lui, ou faire appel à une créature obscure pour combattre les Turcs et par là même assujettir son âme à la servitude éternelle. Vlad se rend au pic de la Dent Brisée où il rencontre un abject démon et conclut un accord faustien avec lui : il acquerra la force de 100 hommes, la rapidité d’une étoile filante et les pouvoirs nécessaires pour anéantir ses ennemis, en l’échange de quoi, il sera accablé d’une insatiable soif de sang humain. S’il parvient à y résister pendant trois jours, Vlad redeviendra lui-même, et sera à même de continuer à protéger et gouverner son peuple, mais s’il cède à la tentation, il entrera le monde des ténèbres pour le restant de ses jours, condamné à se nourrir de sang humain et à perdre et détruire tout ce et ceux qui lui sont chers.",
+    "duration": "1h 32min",
+    "origine": "Etats-Unis",
+    "realisateur": "Gary Shore",
+    "acteurs": [
+    "Luke Evans, Sarah Gadon, Dominic Cooper"
+    ],
+    "bandeAnnonce": "https://www.youtube.com/watch?v=2oOzWcbVf1c",
+    "created_at": "2025-09-13",
+    "release_date": "1 octobre 2014",
+    "une": false,
+    "une_scr": "https://images.alphacoders.com/546/546685.jpg"
   }
 ]
