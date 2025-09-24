@@ -2736,7 +2736,7 @@
     "description": "Avec pour toile de fond un monde rétro-futuriste inspiré des années 1960, “ Les 4 Fantastiques : Premiers pas ” de Marvel Studios présente la première Famille Marvel : Reed Richards/M. Fantastique, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose alors qu'ils affrontent leur plus grand défi.",
     "duration": "1h55",
     "origine": "États-Unis",
-    "child" : true,
+    "child" : false,
     "realisateur": "Matt Shakman",
     "acteurs": [
       "Pedro Pascal", "Vanessa Kirby", "Joseph Quinn"
